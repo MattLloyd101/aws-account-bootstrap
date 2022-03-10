@@ -1,3 +1,4 @@
 name: aws-account-bootstrap
 runtime: nodejs
 description: Create a new AWS account under Organisations using Pulumi
+main: src/bootstrap-initial-users.ts
