@@ -13,6 +13,6 @@
         "forceConsistentCasingInFileNames": true
     },
     "files": [
-      "src/bootstrap-initial-users.ts"
+      "src/bootstrap-initial-s.ts"
     ]
 }

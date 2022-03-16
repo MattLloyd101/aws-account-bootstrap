@@ -1,0 +1,5 @@
+encryptionsalt: v1:oUaVliOMnw4=:v1:paZrxLlFpDIwPocP:qgldzOVkaGyo3UVBJDuXav1U/po5nQ==
+config:
+  aws-account-bootstrap:blockAllWithoutMFAPolicyARN:
+    secure: v1:Nb1ju9dMOiBvG0b6:7I2LVWvoBjiPp5qOVvwBFEQQpfDD+rPLDTYq9YTRZ7Q4OawgubcL9JUii6LHQ8S6P2NVBhp5fiXzHRokAXdcqVnSHqB7pQ==
+  aws:region: eu-west-1
